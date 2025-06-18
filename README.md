@@ -51,8 +51,6 @@
 
 ---
 
----
-
 ## 🏅 Certifications AWS
 
 | Certification | Statut | Badge |
