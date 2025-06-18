@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Brayan !
+# 👋 Hi, I'm Brayan!
 
 <div align="center">
   
@@ -6,16 +6,25 @@
 
 </div>
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-🤖 **Ingénieur en IA/Machine Learning** passionné par l'innovation technologique  
-📊 **Expert en Data Science** avec une solide formation technique  
-🎓 **Diplômé de l'École d'Ingénieurs CESI** (Top 10%)  
-📍 **Basé en France**  
+<div>
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🤖 **AI/Machine Learning Engineer** passionate about technological innovation  
+
+📊 **Data Science Junior** with solid technical background  
+
+🎓 **Graduate from CESI Engineering School** (Top 10%)  
+
+📍 **Based in France**
+
+<br clear="right"/>
+</div>
 
 ---
 
-## 🛠️ Stack Technologique
+## 🛠️ Tech Stack
 
 ### 🤖 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,13 +46,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-### 🗄️ Bases de Données & Big Data
+### 🗄️ Databases & Big Data
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-### 💻 Développement
+### 💻 Development
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -53,21 +62,21 @@
 
 ## 🏅 Certifications AWS
 
-| Certification | Statut | Badge |
+| Certification | Status | Badge |
 |---------------|--------|-------|
-| **AWS Certified Machine Learning Engineer – Associate** | En cours | ![SAA](https://img.shields.io/badge/MLA-C01-FF9900?style=flat-square&logo=amazonaws) |
-| **AWS Certified AI Practitioner** | ✅ Certifié | ![DVA](https://img.shields.io/badge/AIP-C01-FF9900?style=flat-square&logo=amazonaws) |
+| **AWS Certified Machine Learning Engineer – Associate** | In Progress | ![SAA](https://img.shields.io/badge/MLA-C01-FF9900?style=flat-square&logo=amazonaws) |
+| **AWS Certified AI Practitioner** | ✅ Certified | ![DVA](https://img.shields.io/badge/AIP-C01-FF9900?style=flat-square&logo=amazonaws) |
 
 ---
 
-## 🏆 Domaines d'expertise
+## 🏆 Areas of Expertise
 
 ```python
 class Brayan:
     def __init__(self):
         self.role = "ML Engineer"
         self.education = "CESI Engineering School (Top 10%)"
-        self.location = "Strasbourg, France"
+        self.location = "France"
         
     def get_skills(self):
         return {
@@ -82,7 +91,7 @@ class Brayan:
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
 <div align="center">
 
@@ -94,8 +103,8 @@ class Brayan:
 
 <div align="center">
   
-**💡 "L'intelligence artificielle n'est pas une destination, mais un voyage d'innovation continue"**
+**💡 "Artificial Intelligence is not a destination, but a journey of continuous innovation"**
 
-⭐ N'hésitez pas à star mes repos si vous trouvez mes projets intéressants !
+⭐ Feel free to star my repos if you find my projects interesting!
 
 </div> 
