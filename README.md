@@ -58,7 +58,7 @@
 
 | Certification | Status | Badge |
 |---------------|--------|-------|
-| **AWS Certified Machine Learning Engineer – Associate** | In Progress | ![SAA](https://img.shields.io/badge/MLA-C01-FF9900?style=flat-square&logo=amazonaws) |
+| **AWS Certified Machine Learning Engineer – Associate** | ✅ Certified | ![SAA](https://img.shields.io/badge/MLA-C01-FF9900?style=flat-square&logo=amazonaws) |
 | **AWS Certified AI Practitioner** | ✅ Certified | ![DVA](https://img.shields.io/badge/AIP-C01-FF9900?style=flat-square&logo=amazonaws) |
 
 ---
